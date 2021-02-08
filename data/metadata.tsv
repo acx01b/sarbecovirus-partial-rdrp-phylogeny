@@ -110,7 +110,7 @@ MN312709	MN312709|Bat|SARS-like|coronavirus|isolate|151513	China	Guizhou	Rh. sin
 MN312708	MN312708|Bat|SARS-like|coronavirus|isolate|151512	China	Guizhou	Rh. sinicus	2015-XX-XX	Betacoronavirus	Latinne et al. (2020)	WIV+EcoH+DNUS+GIABR	SARSr			1900-01-14	1904-02-20			GZ	?	GZ Unknown			Near Yunnan		2015-08-01		
 MN312707	MN312707|Bat|SARS-like|coronavirus|isolate|151507	China	Guizhou	Rh. sinicus	2015-XX-XX	Betacoronavirus	Latinne et al. (2020)	WIV+EcoH+DNUS+GIABR	SARSr			1900-01-14	1904-02-15			GZ	?	GZ Unknown			Near Yunnan		2015-08-01		
 MN312704	MN312704|Bat|SARS-like|coronavirus|isolate|151491	China	Guizhou	Rh. sinicus	2015-XX-XX	Betacoronavirus	Latinne et al. (2020)	WIV+EcoH+DNUS+GIABR	SARSr			1900-01-14	1904-01-30			GZ	?	GZ Unknown			Near Yunnan		2015-08-01		
-DQ648856	DQ648856|Bat|CoV|273/2005|BtCoV/273/2004	China		Rh. ferrumequinum	2004-XX-XX	Betacoronavirus			SARSr					1900-09-29											
+DQ648856	DQ648856|Bat|CoV|273/2005|BtCoV/273/2004	China	Hubei	Rh. ferrumequinum	2004-XX-XX	Betacoronavirus			SARSr					1900-09-29											
 DQ412042	DQ412042|Bat|SARS|CoV|Rf1/2004	China	Hubei	Rh. ferrumequinum	2004-11-XX	Betacoronavirus	Li et al. (2005)	CAS	SARSr					1899-12-31		HB	-0	Yichang			Far from Yunnan		2004-11-01		
 KF294456	KF294456|SARS-related|bat|coronavirus|Lingbao-331	China	Henan	Rh. ferrumequinum	2012-XX-XX	Betacoronavirus	Lin et al. (2017)	CDC	SARSr					1900-11-26		HA	-0	Lingbao			Far from Yunnan				
 MN312826	MN312826|Bat|SARS-like|coronavirus|isolate|HD131601	China	Guangdong	Rh. sinicus	2013-XX-XX	Betacoronavirus	Latinne et al. (2020)	WIV+EcoH+DNUS+GIABR	SARSr			1900-01-12	1904-05-19			GD	HD	Huidong			Far from Yunnan		2013-11-01		
@@ -139,18 +139,18 @@ MK991947	MK991947|Bat|coronavirus|isolate|B18-171	South Korea	South Korea	Rh. fe
 KU528590	KU528590|Bat|coronavirus|isolate|B15-21	South Korea	South Korea	bat	2015-10-14																				
 MN312695	MN312695|Bat|SARS-like|coronavirus|isolate|151239	China	Hunan	Rh. sinicus	2015-XX-XX	Betacoronavirus	Latinne et al. (2020)	WIV+EcoH+DNUS+GIABR	SARSr			1900-01-14	1903-05-23			HN	?	HN Unknown			Far from Yunnan		2015-08-01		
 MN312691	MN312691|Bat|SARS-like|coronavirus|isolate|151161	China	Hunan	Rh. sinicus	2015-XX-XX	Betacoronavirus	Latinne et al. (2020)	WIV+EcoH+DNUS+GIABR	SARSr			1900-01-14	1903-03-06			HN	?	HN Unknown			Far from Yunnan		2015-08-01		
-GQ153544	GQ153544|Bat|SARS|coronavirus|HKU3-9	China	Hong Kong	Rh. sinicus	2006-XX-XX	Betacoronavirus	Lau et al. (2010)	HKU+Oth	SARSr							HK					Far from Yunnan				
-GQ153541	GQ153541|Bat|SARS|coronavirus|HKU3-6	China	Hong Kong	Rh. sinicus	2005-XX-XX	Betacoronavirus	Lau et al. (2010)	HKU+Oth	SARSr							HK					Far from Yunnan				
-GQ153540	GQ153540|Bat|SARS|coronavirus|HKU3-5	China	Hong Kong	Rh. sinicus	2005-XX-XX	Betacoronavirus	Lau et al. (2010)	HKU+Oth	SARSr							HK					Far from Yunnan				
-GQ153548	GQ153548|Bat|SARS|coronavirus|HKU3-13	China	Hong Kong	Rh. sinicus	2007-XX-XX	Betacoronavirus	Lau et al. (2010)	HKU+Oth	SARSr							HK					Far from Yunnan				
-GQ153545	GQ153545|Bat|SARS|coronavirus|HKU3-10	China	Hong Kong	Rh. sinicus	2006-XX-XX	Betacoronavirus	Lau et al. (2010)	HKU+Oth	SARSr							HK					Far from Yunnan				
-GQ153546	GQ153546|Bat|SARS|coronavirus|HKU3-11	China	Hong Kong	Rh. sinicus	2007-XX-XX	Betacoronavirus	Lau et al. (2010)	HKU+Oth	SARSr							HK					Far from Yunnan				
-GQ153539	GQ153539|Bat|SARS|coronavirus|HKU3-4	China	Hong Kong	Rh. sinicus	2005-XX-XX	Betacoronavirus	Lau et al. (2010)	HKU+Oth	SARSr							HK					Far from Yunnan				
-DQ084199	DQ084199|Bat|SARS|coronavirus|HKU3-2	China	Hong Kong	Rh. sinicus	2005-XX-XX	Betacoronavirus			SARSr																
-DQ084200	DQ084200|Bat|SARS|coronavirus|HKU3-3	China	Hong Kong	Rh. sinicus	2005-XX-XX	Betacoronavirus			SARSr																
-DQ022305	DQ022305|Bat|SARS|coronavirus|HKU3-1	China	Hong Kong	Rh. sinicus	2005-XX-XX	Betacoronavirus			SARSr																
-GQ153543	GQ153543|Bat|SARS|coronavirus|HKU3-8	China	Hong Kong	Rh. sinicus	2006-XX-XX	Betacoronavirus	Lau et al. (2010)	HKU+Oth	SARSr							HK					Far from Yunnan				
-GQ153542	GQ153542|Bat|SARS|coronavirus|HKU3-7	China	Hong Kong	Rh. sinicus	2006-XX-XX	Betacoronavirus	Lau et al. (2010)	HKU+Oth	SARSr							HK					Far from Yunnan				
+GQ153544	GQ153544|Bat|SARS|coronavirus|HKU3-9	China	Hong Kong	Rh. sinicus	2006-02-24	Betacoronavirus	Lau et al. (2010)	HKU+Oth	SARSr							HK					Far from Yunnan				
+GQ153541	GQ153541|Bat|SARS|coronavirus|HKU3-6	China	Hong Kong	Rh. sinicus	2005-12-16	Betacoronavirus	Lau et al. (2010)	HKU+Oth	SARSr							HK					Far from Yunnan				
+GQ153540	GQ153540|Bat|SARS|coronavirus|HKU3-5	China	Hong Kong	Rh. sinicus	2005-09-20	Betacoronavirus	Lau et al. (2010)	HKU+Oth	SARSr							HK					Far from Yunnan				
+GQ153548	GQ153548|Bat|SARS|coronavirus|HKU3-13	China	Hong Kong	Rh. sinicus	2007-11-15	Betacoronavirus	Lau et al. (2010)	HKU+Oth	SARSr							HK					Far from Yunnan				
+GQ153545	GQ153545|Bat|SARS|coronavirus|HKU3-10	China	Hong Kong	Rh. sinicus	2006-02-24	Betacoronavirus	Lau et al. (2010)	HKU+Oth	SARSr							HK					Far from Yunnan				
+GQ153546	GQ153546|Bat|SARS|coronavirus|HKU3-11	China	Hong Kong	Rh. sinicus	2007-03-07	Betacoronavirus	Lau et al. (2010)	HKU+Oth	SARSr							HK					Far from Yunnan				
+GQ153539	GQ153539|Bat|SARS|coronavirus|HKU3-4	China	Hong Kong	Rh. sinicus	2005-07-20	Betacoronavirus	Lau et al. (2010)	HKU+Oth	SARSr							HK					Far from Yunnan				
+DQ084199	DQ084199|Bat|SARS|coronavirus|HKU3-2	China	Hong Kong	Rh. sinicus	2005-02-24	Betacoronavirus			SARSr																
+DQ084200	DQ084200|Bat|SARS|coronavirus|HKU3-3	China	Hong Kong	Rh. sinicus	2005-03-17	Betacoronavirus			SARSr																
+DQ022305	DQ022305|Bat|SARS|coronavirus|HKU3-1	China	Hong Kong	Rh. sinicus	2005-02-17	Betacoronavirus			SARSr																
+GQ153543	GQ153543|Bat|SARS|coronavirus|HKU3-8	China	Hong Kong	Rh. sinicus	2006-02-15	Betacoronavirus	Lau et al. (2010)	HKU+Oth	SARSr							HK					Far from Yunnan				
+GQ153542	GQ153542|Bat|SARS|coronavirus|HKU3-7	China	Hong Kong	Rh. sinicus	2006-02-15	Betacoronavirus	Lau et al. (2010)	HKU+Oth	SARSr							HK					Far from Yunnan				
 DQ648795	DQ648795|Bat|coronavirus|BtCoV/A1018/2005	China		bat	2005-XX-XX	Betacoronavirus			SARSr					1902-10-14											
 MN312640	MN312640|Bat|SARS-like|coronavirus|isolate|141344	China	Guangdong	Rh. sinicus	2014-XX-XX	Betacoronavirus	Latinne et al. (2020)	WIV+EcoH+DNUS+GIABR	SARSr			1900-01-13	1903-09-05			GD	CA	Conghua	possible		Far from Yunnan		2014-09-01		
 MN312688	MN312688|Bat|SARS-like|coronavirus|isolate|8363	China	Guangdong	Rh. sinicus	2015-XX-XX	Betacoronavirus	Latinne et al. (2020)	WIV+EcoH+DNUS+GIABR	SARSr	1922-11-23						GD	?	GD Unknown			Far from Yunnan		2015-06-01		
@@ -165,7 +165,7 @@ MN312638	MN312638|Bat|SARS-like|coronavirus|isolate|141341	China	Guangdong	Rh. s
 MN312637	MN312637|Bat|SARS-like|coronavirus|isolate|141335	China	Guangdong	Rh. sinicus	2014-XX-XX	Betacoronavirus	Latinne et al. (2020)	WIV+EcoH+DNUS+GIABR	SARSr			1900-01-13	1903-08-27			GD	CA	Conghua	possible		Far from Yunnan		2014-09-01		
 KX447563	KX447563|Bat|coronavirus|HKU3|152075	China	Guangdong	Rh. sinicus	2015-09-19	Betacoronavirus	Lau et al. (2018)	HKU+Oth	SARSr			1900-01-14	1905-09-05			GD					Far from Yunnan				
 KX447564	KX447564|Bat|coronavirus|HKU3|152090	China	Guangdong	Rh. sinicus	2015-09-19	Betacoronavirus	Lau et al. (2018)	HKU+Oth	SARSr			1900-01-14	1905-09-20			GD					Far from Yunnan				
-GQ153547	GQ153547|Bat|SARS|coronavirus|HKU3-12	China	Hong Kong	Rh. sinicus	2007-XX-XX	Betacoronavirus	Lau et al. (2010)	HKU+Oth	SARSr							HK					Far from Yunnan				
+GQ153547	GQ153547|Bat|SARS|coronavirus|HKU3-12	China	Hong Kong	Rh. sinicus	2007-05-15	Betacoronavirus	Lau et al. (2010)	HKU+Oth	SARSr							HK					Far from Yunnan				
 MN312858	MN312858|Bat|SARS-like|coronavirus|isolate|SZ140288	China	Guangdong	Rh. sinicus	2014-XX-XX	Betacoronavirus	Latinne et al. (2020)	WIV+EcoH+DNUS+GIABR	SARSr			1900-01-13	1900-10-14			GD	SZ	Shenzhen			Far from Yunnan		2014-04-01		
 MN312859	MN312859|Bat|SARS-like|coronavirus|isolate|SZ140289	China	Guangdong	Rh. sinicus	2014-XX-XX	Betacoronavirus	Latinne et al. (2020)	WIV+EcoH+DNUS+GIABR	SARSr			1900-01-13	1900-10-15			GD	SZ	Shenzhen			Far from Yunnan		2014-04-01		
 KX285125	KX285125|Bat|SARS|coronavirus|HKU3|PREDICT-EHA-156-11-AH-SXD002	China	Anhui	Rh. sinicus	2011-XX-XX	Betacoronavirus	Anthony et al. (2017)	PREDICT	SARSr							AH	SXD	Sanxizhen			Far from Yunnan	2011-04-08	2011-04-01		
@@ -224,7 +224,7 @@ MG772876	MG772876|SARS-related|bat|coronavirus|bat-SL-CoVZ2_63	China	Zhejiang	Rh
 MG772868	MG772868|SARS-related|bat|coronavirus|bat-SL-CoVZ2_88	China	Zhejiang	Rh. sinicus	2016-XX-XX	Betacoronavirus	Hu et al. (2018)	PLA+Oth	SARSr					1900-03-28		ZJ	Z2	Dinghai			Far from Yunnan		2016-01-01		
 MN312846	MN312846|Bat|SARS-like|coronavirus|isolate|NL140400	China	Guangdong	Rh. sinicus	2014-XX-XX	Betacoronavirus	Latinne et al. (2020)	WIV+EcoH+DNUS+GIABR	SARSr			1900-01-13	1901-02-03			GD	NL	Nanling			Far from Yunnan		2014-05-01		
 MN312693	MN312693|Bat|SARS-like|coronavirus|isolate|151199	China	Hunan	Rh. sinicus	2015-XX-XX	Betacoronavirus	Latinne et al. (2020)	WIV+EcoH+DNUS+GIABR	SARSr			1900-01-14	1903-04-13			HN	?	HN Unknown			Far from Yunnan		2015-08-01		
-DQ648857	DQ648857|Bat|CoV|279/2005	China		Rh. macrotis	2005-XX-XX	Betacoronavirus			SARSr					1900-10-05											
+DQ648857	DQ648857|Bat|CoV|279/2005	China	Hubei	Rh. macrotis	2004-XX-XX	Betacoronavirus			SARSr					1900-10-05											
 DQ412043	DQ412043|Bat|SARS|CoV|Rm1/2004	China	Hubei	Rh. macrotis	2004-11-XX	Betacoronavirus	Li et al. (2005)	CAS	SARSr					1899-12-31		HB	-0	Yichang			Far from Yunnan		2004-11-01		
 MN312816	MN312816|Bat|SARS-like|coronavirus|isolate|9215	China	Hubei	Rh. sinicus	2015-XX-XX	Betacoronavirus	Latinne et al. (2020)	WIV+EcoH+DNUS+GIABR	SARSr	1925-03-24						HB	?	HB Unknown			Far from Yunnan		2015-08-01		
 MN312815	MN312815|Bat|SARS-like|coronavirus|isolate|9214	China	Hubei	Rh. sinicus	2015-XX-XX	Betacoronavirus	Latinne et al. (2020)	WIV+EcoH+DNUS+GIABR	SARSr	1925-03-23						HB	?	HB Unknown			Far from Yunnan		2015-08-01		
