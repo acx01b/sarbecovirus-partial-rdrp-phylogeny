@@ -1,0 +1,68 @@
+{
+  "title": "Sarbecovirus partial RdRp : 15218-15544 in SARS/GD01",
+  "maintainers": [
+    {"name": "babarlelephant", "url": "http://twitter.com/babarlelephant"},
+    {"name": "franciscoasis", "url": "http://twitter.com/franciscodeasis"}
+  ],
+  "build_url": "http://twitter.com/Babarlelephant",
+  "colorings": [
+    {
+      "key": "gt",
+      "title": "Genotype",
+      "type": "categorical"
+    },
+    {
+      "key": "author",
+      "title": "Author",
+      "type": "categorical"
+    },
+    {
+      "key": "country",
+      "title": "Country",
+      "type": "categorical"
+    },
+	{
+      "key": "division",
+      "title": "Division",
+      "type": "categorical"
+    },
+	{
+      "key": "host",
+      "title": "Host species",
+      "type": "categorical"
+    },
+	{
+      "key": "location",
+      "title": "Location",
+      "type": "categorical"
+    },
+	{
+      "key": "cite",
+      "title": "cite",
+      "type": "categorical"
+    },
+	{
+      "key": "Group",
+      "title": "collected by",
+      "type": "categorical"
+    }
+  ],
+  "geo_resolutions": [
+    "country",
+	"division"
+  ],
+  "panels": [
+     "tree",
+     "map",
+     "entropy"
+  ],
+  "display_defaults": {
+    "map_triplicate": true
+  },
+  "filters": [
+    "country",
+    "author",
+	"host",
+	"Group"
+  ]
+}

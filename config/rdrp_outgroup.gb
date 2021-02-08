@@ -1,0 +1,62 @@
+LOCUS       AY278489                 327 bp    RNA     linear   VRL 01-SEP-2009
+DEFINITION  SARS coronavirus GD01, complete genome.
+ACCESSION   AY278489 REGION: 15218..15544
+VERSION     AY278489.2
+KEYWORDS    .
+SOURCE      SARS coronavirus GD01
+  ORGANISM  SARS coronavirus GD01
+            Viruses; Riboviria; Orthornavirae; Pisuviricota; Pisoniviricetes;
+            Nidovirales; Cornidovirineae; Coronaviridae; Orthocoronavirinae;
+            Betacoronavirus; Sarbecovirus.
+REFERENCE   1  (bases 1 to 327)
+  AUTHORS   Wu,Q., Zhang,Y., Lu,H., Wang,J., He,X., Liu,Y., Ye,C., Lin,W.,
+            Hu,J., Ji,J., Xu,J., Ye,J., Hu,Y., Chen,W., Li,S., Wang,J.,
+            Wang,J., Bi,S. and Yang,H.
+  TITLE     The E protein is a multifunctional membrane protein of SARS-CoV
+  JOURNAL   Genomics Proteomics Bioinformatics 1 (2), 131-144 (2003)
+   PUBMED   15626343
+REFERENCE   2  (bases 1 to 327)
+  AUTHORS   Qin,E., Zhu,Q., Yu,M., Fan,B., Chang,G., Si,B., Yang,B., Peng,W.,
+            Jiang,T., Liu,B., Deng,Y., Liu,H., Zhang,Y., Wang,C., Li,Y.,
+            Gan,Y., Li,X., Lu,F., Tan,G., Yang,R., Cao,W., Wang,J., Chen,W.,
+            Cong,L., Deng,Y., Dong,W., Han,Y., Hu,W., Lei,M., Li,C., Li,G.,
+            Li,G., Li,H., Li,S., Li,S., Li,W., Li,W., Lin,W., Liu,J., Liu,Z.,
+            Lu,H., Ni,P., Qi,Q., Sun,Y., Tang,L., Tong,Z., Wang,J., Wang,X.,
+            Wu,Q., Xi,Y., Xu,Z., Yang,L., Ye,C., Ye,J., Zhang,B., Zhang,F.,
+            Zhang,J., Zhang,X., Zhou,J. and Yang,H.
+  TITLE     SARS coronavirus GD01 isolate genome sequence
+  JOURNAL   Unpublished
+REFERENCE   3  (bases 1 to 327)
+  AUTHORS   Qin,E., Zhu,Q., Yu,M., Fan,B., Chang,G., Si,B., Yang,B., Peng,W.,
+            Jiang,T., Liu,B., Deng,Y., Liu,H., Zhang,Y., Wang,C., Li,Y.,
+            Gan,Y., Li,X., Lu,F., Tan,G., Yang,R., Cao,W., Wang,J., Chen,W.,
+            Cong,L., Deng,Y., Dong,W., Han,Y., Hu,W., Lei,M., Li,C., Li,G.,
+            Li,G., Li,H., Li,S., Li,S., Li,W., Li,W., Lin,W., Liu,J., Liu,Z.,
+            Lu,H., Ni,P., Qi,Q., Sun,Y., Tang,L., Tong,Z., Wang,J., Wang,X.,
+            Wu,Q., Xi,Y., Xu,Z., Yang,L., Ye,C., Ye,J., Zhang,B., Zhang,F.,
+            Zhang,J., Zhang,X., Zhou,J. and Yang,H.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (17-APR-2003) Institute of Microbiology and Epidemiology,
+            Academy of Military Medical Sciences / Beijing Genomics Institute,
+            Chinese Academy of Sciences, Beijing, Beijing 101300, China
+COMMENT     On Jun 5, 2003 this sequence version replaced AY278489.1.
+FEATURES             Location/Qualifiers
+     source          1..327
+                     /organism="SARS coronavirus GD01"
+                     /mol_type="genomic RNA"
+                     /isolate="GD01"
+                     /db_xref="taxon:233044"
+     CDS             1..327
+                     /codon_start=1
+                     /gene="p"
+                     /protein_id="AAP51225.1"
+                     /translation="CDRAMPNMLRIMASLVLARKHNTCCNLSHRFYRLANECAQVLSEMVMCGGSLYVKPGGTSSGDATTAYANSVFNICQAVTANVNALLSTDGNKIADKYVRNLQHRLYEC"
+ORIGIN      
+        1 tgtgacagag ccatgcctaa catgcttagg ataatggcct ctcttgttct tgctcgcaaa
+       61 cataacactt gctgtaactt atcacaccgt ttctacaggt tagctaacga gtgtgcgcaa
+      121 gtattaagtg agatggtcat gtgtggcggc tcactatatg ttaaaccagg tggaacatca
+      181 tccggtgatg ctacaactgc ttatgctaat agtgtcttta acatttgtca agctgttaca
+      241 gccaatgtaa atgcacttct ttcaactgat ggtaataaga tagctgacaa gtatgtccgc
+      301 aatctacaac acaggctcta tgagtgt
+//
+
