@@ -1,6 +1,6 @@
 rule all:
     input:
-        auspice_json = "../auspice-master/data/rdrp.json",
+        auspice_json = "auspice/rdrp.json",
 
 input_fasta = "data/sequences.fasta",
 input_metadata = "data/metadata.tsv",
@@ -11,11 +11,11 @@ lat_longs = "config/nextstrain_emma_lat_longs.tsv",
 auspice_config = "config/auspice_config.json"
 clades = "config/clades.tsv"
 
-rule align:
+rule filter:
     message:
         """
-        Aligning sequences to {input.reference}
-          - filling gaps with N
+        Filtering to
+          - excluding strains in {input.exclude}
         """
     input:
         sequences = input_fasta,
@@ -23,10 +23,32 @@ rule align:
         exclude = dropped_strains,
         reference = reference
     output:
+        sequences = "results/filtered.fasta"
+    shell:
+        """
+        augur filter \
+            --sequences {input.sequences} \
+            --metadata {input.metadata} \
+            --exclude {input.exclude} \
+            --output {output.sequences} \
+        """
+
+
+rule align:
+    message:
+        """
+        Aligning sequences to {input.reference}
+          - filling gaps with N
+        """
+    input:
+        sequences = rules.filter.output.sequences,
+        metadata = input_metadata,
+        reference = reference
+    output:
         alignment = "results/aligned.fasta"
     shell:
         """
-        python ../augur-master/bin/augur align \
+        augur align \
             --sequences {input.sequences} \
             --reference-sequence {input.reference} \
             --output {output.alignment} \

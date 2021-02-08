@@ -1,7 +1,7 @@
 LOCUS       AY278489                 327 bp    RNA     linear   VRL 01-SEP-2009
 DEFINITION  SARS coronavirus GD01, complete genome.
 ACCESSION   AY278489 REGION: 15218..15544
-VERSION     AY278489.2
+VERSION     AY278489|SARS|GD01
 KEYWORDS    .
 SOURCE      SARS coronavirus GD01
   ORGANISM  SARS coronavirus GD01
