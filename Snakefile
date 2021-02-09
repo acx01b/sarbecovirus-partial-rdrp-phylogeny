@@ -28,9 +28,9 @@ rule filter:
         """
         augur filter \
             --sequences {input.sequences} \
-            --metadata {input.metadata} \
             --exclude {input.exclude} \
             --output {output.sequences} \
+            --metadata {input.metadata}
         """
 
 
@@ -42,7 +42,6 @@ rule align:
         """
     input:
         sequences = rules.filter.output.sequences,
-        metadata = input_metadata,
         reference = reference
     output:
         alignment = "results/aligned.fasta"
