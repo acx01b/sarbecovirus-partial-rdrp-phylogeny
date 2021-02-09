@@ -115,7 +115,7 @@ rule refine:
         date_inference = "marginal",
         clock_filter_iqd = 4,
         root = "internal-node-root",
-        clock_rate = 0.0004
+        clock_rate = 0.0003
     shell:
         """
         augur refine \
@@ -218,3 +218,8 @@ rule clean:
         "auspice"
     shell:
         "rm -rfv {params}"
+		
+rule copy:
+    shell:
+        "copy c:\code\nextstrain_ncov\auspice\rdrp.json c:\code\nextstrain_ncov\auspice-master\data\ /Y"
+		

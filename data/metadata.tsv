@@ -1,4 +1,4 @@
-accession	strain	country	division	host	date	_yea	author	Group	Species	sample ID	sample ID sub	EH sample year	EH sample ID	custom naming		cave province code	cave code	location	asumption		cave region	collection_date	collection_month	comment	lat_lon
+accession	strain	country	division	host	date	_yea	cite	Group	Species	sample ID	sample ID sub	EH sample year	EH sample ID	custom naming		cave province code	cave code	location	asumption		cave region	collection_date	collection_month	comment	lat_lon
 MT470440	MT470440|IISERTVM-08|India|2020	India	India	Rhinolophus	2020-02-07																				
 MT470441	MT470441|IISERTVM-09|India|2020	India	India	Rhinolophus	2020-02-07																				
 MT470437	MT470437|IISERTVM-05|India|2020	India	India	Rhinolophus	2020-02-06																				
@@ -174,8 +174,8 @@ MG772854	MG772854|SARS-related|bat|coronavirus|bat-SL-CoVDXC53	China	Zhejiang	Rh
 MG772884	MG772884|SARS-related|bat|coronavirus|bat-SL-CoVZ2_11	China	Zhejiang	Rh. sinicus	2016-XX-XX	Betacoronavirus	Hu et al. (2018)	PLA+Oth	SARSr					1900-01-10		ZJ	Z2	Dinghai			Far from Yunnan		2016-01-01		
 MG772903	MG772903|SARS-related|bat|coronavirus|bat-SL-CoVZXC44	China	Zhejiang	Rh. sinicus	2015-XX-XX	Betacoronavirus	Hu et al. (2018)	PLA+Oth	SARSr					1900-02-12		ZJ	ZXC	Dinghai			Far from Yunnan		2015-07-01		
 MG772891	MG772891|SARS-related|bat|coronavirus|bat-SL-CoVZ2_1	China	Zhejiang	Rh. sinicus	2016-XX-XX	Betacoronavirus	Hu et al. (2018)	PLA+Oth	SARSr					1899-12-31		ZJ	Z2	Dinghai			Far from Yunnan		2016-01-01		
-KY775083	KY775083|Rhinolophus|pusillus|coronavirus|isolate|ZSR6			Rh. pusillus	?																				
-KY775078	KY775078|Rhinolophus|pusillus|coronavirus|isolate|ZSR42			Rh. pusillus	?																				
+KY775083	KY775083|Rhinolophus|pusillus|coronavirus|isolate|ZSR6	China	Zhejiang	Rh. pusillus	2015-XX-XX		PMC5589946											Zhoushan							
+KY775078	KY775078|Rhinolophus|pusillus|coronavirus|isolate|ZSR42	China	Zhejiang	Rh. pusillus	2015-XX-XX		PMC5589946											Zhoushan							
 MG772863	MG772863|SARS-related|bat|coronavirus|bat-SL-CoVZ2_110	China	Zhejiang	Rh. sinicus	2016-XX-XX	Betacoronavirus	Hu et al. (2018)	PLA+Oth	SARSr					1900-04-19		ZJ	Z2	Dinghai			Far from Yunnan		2016-01-01		
 MG772865	MG772865|SARS-related|bat|coronavirus|bat-SL-CoVZ2_106	China	Zhejiang	Rh. sinicus	2016-XX-XX	Betacoronavirus	Hu et al. (2018)	PLA+Oth	SARSr					1900-04-15		ZJ	Z2	Dinghai			Far from Yunnan		2016-01-01		
 MG772875	MG772875|SARS-related|bat|coronavirus|bat-SL-CoVZ2_65	China	Zhejiang	Rh. sinicus	2016-XX-XX	Betacoronavirus	Hu et al. (2018)	PLA+Oth	SARSr					1900-03-05		ZJ	Z2	Dinghai			Far from Yunnan		2016-01-01		
@@ -189,7 +189,7 @@ MG772924	MG772924|SARS-related|bat|coronavirus|bat-SL-CoVZXC12	China	Zhejiang	Rh
 MG772908	MG772908|SARS-related|bat|coronavirus|bat-SL-CoVZXC37	China	Zhejiang	Rh. sinicus	2015-XX-XX	Betacoronavirus	Hu et al. (2018)	PLA+Oth	SARSr					1900-02-05		ZJ	ZXC	Dinghai			Far from Yunnan		2015-07-01		
 MG772904	MG772904|SARS-related|bat|coronavirus|bat-SL-CoVZXC43	China	Zhejiang	Rh. sinicus	2015-XX-XX	Betacoronavirus	Hu et al. (2018)	PLA+Oth	SARSr					1900-02-11		ZJ	ZXC	Dinghai			Far from Yunnan		2015-07-01		
 MG772861	MG772861|SARS-related|bat|coronavirus|bat-SL-CoVDXC2	China	Zhejiang	Rh. sinicus	2016-XX-XX	Betacoronavirus	Hu et al. (2018)	PLA+Oth	SARSr					1900-01-01		ZJ	DXC	Daishan			Far from Yunnan		2016-10-01		
-KY775079	KY775079|Rhinolophus|pusillus|coronavirus|isolate|ZSR31			Rh. pusillus	?																				
+KY775079	KY775079|Rhinolophus|pusillus|coronavirus|isolate|ZSR31	China	Zhejiang	Rh. pusillus	2015-XX-XX		PMC5589946											Zhoushan							
 MG772927	MG772927|SARS-related|bat|coronavirus|bat-SL-CoVZXC7	China	Zhejiang	Rh. sinicus	2015-XX-XX	Betacoronavirus	Hu et al. (2018)	PLA+Oth	SARSr					1900-01-06		ZJ	ZXC	Dinghai			Far from Yunnan		2015-07-01		
 MG772920	MG772920|SARS-related|bat|coronavirus|bat-SL-CoVZXC22	China	Zhejiang	Rh. sinicus	2015-XX-XX	Betacoronavirus	Hu et al. (2018)	PLA+Oth	SARSr					1900-01-21		ZJ	ZXC	Dinghai			Far from Yunnan		2015-07-01		
 MG772913	MG772913|SARS-related|bat|coronavirus|bat-SL-CoVZXC29	China	Zhejiang	Rh. sinicus	2015-XX-XX	Betacoronavirus	Hu et al. (2018)	PLA+Oth	SARSr					1900-01-28		ZJ	ZXC	Dinghai			Far from Yunnan		2015-07-01		
@@ -331,11 +331,11 @@ KF500954	KF500954|Betacoronavirus|Rhinolophus|hipposideros/Italy/243585/2012	Ita
 KT381914	KT381914|Rhinolophus|monoceros|coronavirus|isolate|CYCU-R9/TW/2013	Taiwan	Taiwan	Rh. monoceros	2013-XX-XX																				
 KY432455	KY432455|Bat|coronavirus|isolate|16BO122	South Korea	South Korea	Rh. ferrumequinum	2016-04-XX																				
 KY432457	KY432457|Bat|coronavirus|isolate|16BO132	South Korea	South Korea	Rh. ferrumequinum	2016-04-XX																				
-KY775084	KY775084|Rhinolophus|pusillus|coronavirus|isolate|ZSR4			Rh. pusillus	?																				
-KY775086	KY775086|Rhinolophus|pusillus|coronavirus|isolate|SSR10			Rh. pusillus	?																				
-KY775087	KY775087|Rhinolophus|pusillus|coronavirus|isolate|SSR2			Rh. pusillus	?																				
-KY775088	KY775088|Rhinolophus|pusillus|coronavirus|isolate|SSR1			Rh. pusillus	?																				
-KY775091	KY775091|Rhinolophus|pusillus|coronavirus|isolate|CLR7			Rh. pusillus	?																				
+KY775084	KY775084|Rhinolophus|pusillus|coronavirus|isolate|ZSR4	China	Zhejiang	Rh. pusillus	2015-XX-XX		PMC5589946											Zhoushan							
+KY775086	KY775086|Rhinolophus|pusillus|coronavirus|isolate|SSR10	China	Fujian	Rh. pusillus	2015-XX-XX		PMC5589946											ShiShi							
+KY775087	KY775087|Rhinolophus|pusillus|coronavirus|isolate|SSR2	China	Fujian	Rh. pusillus	2015-XX-XX		PMC5589946											ShiShi							
+KY775088	KY775088|Rhinolophus|pusillus|coronavirus|isolate|SSR1	China	Fujian	Rh. pusillus	2015-XX-XX		PMC5589946											ShiShi							
+KY775091	KY775091|Rhinolophus|pusillus|coronavirus|isolate|CLR7	China	Fujian	Rh. pusillus	2015-XX-XX		PMC5589946											Changle							
 MK991936	MK991936|Bat|coronavirus|isolate|B18-92	South Korea	South Korea	Rh. ferrumequinum	2018-05-24																				
 MK991946	MK991946|Bat|coronavirus|isolate|B18-168	South Korea	South Korea	Rh. ferrumequinum	2018-09-30																				
 MT040334	MT040334|Pangolin|coronavirus|isolate|PCoV_GX-P1E	China	Guangxi	Pangolin	2017-XX-XX																				
