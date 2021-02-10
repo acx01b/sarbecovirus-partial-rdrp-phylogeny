@@ -8,7 +8,7 @@ Once augur is install (pip install augur)
 
 Snamemake --cores 1 
 
-generates the file auspice/rdrp.json 
+generates the file auspice/rdrp.json  
 
 Copying auspice's files plus rdrp.json gives  
 
