@@ -10,6 +10,7 @@ colors = "config/colors.tsv",
 lat_longs = "config/nextstrain_emma_lat_longs.tsv",
 auspice_config = "config/auspice_config.json"
 clades = "config/clades.tsv"
+description = "config/description.md"
 
 rule filter:
     message:
@@ -197,7 +198,8 @@ rule export:
         aa_muts = rules.translate.output.node_data,
         lat_longs = lat_longs,
         auspice_config = auspice_config,
-        clades = rules.clades.output.node_data
+        clades = rules.clades.output.node_data,
+        description = description
     output:
         auspice_json = rules.all.input.auspice_json,
     shell:
@@ -208,7 +210,9 @@ rule export:
             --node-data {input.branch_lengths} {input.nt_muts} {input.aa_muts} {input.clades} \
             --lat-longs {input.lat_longs} \
             --auspice-config {input.auspice_config} \
+			--description {input.description} \
             --output {output.auspice_json}
+
         """
 
 rule clean:
@@ -219,7 +223,5 @@ rule clean:
     shell:
         "rm -rfv {params}"
 		
-rule copy:
-    shell:
-        "copy c:\code\nextstrain_ncov\auspice\rdrp.json c:\code\nextstrain_ncov\auspice-master\data\ /Y"
+
 		

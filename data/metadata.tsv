@@ -288,11 +288,11 @@ EPI_ISL_412977	EPI_ISL_412977|RmYN02	China	Yunnan	Rh. malayanus	2019-XX-XX
 EPI_ISL_420039	EPI_ISL_420039|SARS-CoV-2|France/GE2720/2020	France	Grand Est	Human	2020-03-12																				
 EPI_ISL_456190	EPI_ISL_456190|SARS-CoV-2|NewZealand/20VR1109/2020	New Zealand	New Zealand	Human	2020-03-04																				
 MN908947	MN908947|SARS-CoV-2|Wuhan-Hu-1	China	Hubei	Human	2019-12-30																				
-MW251308	MW251308|Bat|coronavirus|RacCS203	Thailand	Thailand	Rh. acuminatus 	2020-06-19																				
-MW251309	MW251309|Bat|coronavirus|RacCS224	Thailand	Thailand	Rh. acuminatus 	2020-06-19																				
-MW251310	MW251310|Bat|coronavirus|RacCS253	Thailand	Thailand	Rh. acuminatus 	2020-06-19																				
-MW251311	MW251311|Bat|coronavirus|RacCS264	Thailand	Thailand	Rh. acuminatus 	2020-06-20																				
-MW251312	MW251312|Bat|coronavirus|RacCS271	Thailand	Thailand	Rh. acuminatus 	2020-06-20																				
+MW251308	MW251308|Bat|coronavirus|RacCS203	Thailand	Chachoengsao	Rh. acuminatus 	2020-06-19		Wacharapluesadee et al. (2021)	THAI																	
+MW251309	MW251309|Bat|coronavirus|RacCS224	Thailand	Chachoengsao	Rh. acuminatus 	2020-06-19		Wacharapluesadee et al. (2021)	THAI																	
+MW251310	MW251310|Bat|coronavirus|RacCS253	Thailand	Chachoengsao	Rh. acuminatus 	2020-06-19		Wacharapluesadee et al. (2021)	THAI																	
+MW251311	MW251311|Bat|coronavirus|RacCS264	Thailand	Chachoengsao	Rh. acuminatus 	2020-06-20		Wacharapluesadee et al. (2021)	THAI																	
+MW251312	MW251312|Bat|coronavirus|RacCS271	Thailand	Chachoengsao	Rh. acuminatus 	2020-06-20		Wacharapluesadee et al. (2021)	THAI																	
 KJ473817	KJ473817|BtRf-BetaCoV/HeN2013|BtRf-HeN2013	China	Henan	Rh. ferrumequinum	2013-XX-XX	Betacoronavirus	Wu et al. (2016)	MOH	SARSr							HA					Far from Yunnan		2013-04-01		
 GQ404796	GQ404796|SLO1A0050/2008/SVN	Slovenia	Slovenia	Rh. hipposideros 	2008-XX-XX		Rihtaric et al. (2010)																		
 KJ473815	KJ473815|BtRs-BetaCoV/GX2013|BtRs-GX2013	China	Guangxi	Rh. sinicus	2012-XX-XX	Betacoronavirus	Wu et al. (2016)	MOH	SARSr							GX	?	GX Unknown			Near Yunnan		2012-11-01		
