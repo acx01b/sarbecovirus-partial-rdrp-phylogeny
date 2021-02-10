@@ -11,7 +11,7 @@ Snamemake --cores 1
 generates the file auspice/rdrp.json  
 
 Copying auspice's files plus rdrp.json gives  
-
+    
 http://babarlelephant.free-hoster.net/dist/index_rdrp.html?c=clade_membership
   
 
