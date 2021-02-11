@@ -3,3 +3,10 @@ AY27000|SARS|GD01
 # according to https://www.microbiologyresearch.org/content/jgv/10.1099/vir.0.016378-0.F1 this is Rf1 and Rm1 
 DQ648856|Bat|CoV|273/2005|BtCoV/273/2004
 DQ648857|Bat|CoV|279/2005
+
+# too divergent
+MN312608|Bat/7519
+MN312625|Bat/7570
+MN823619|Algeria/2017
+KX285253|PREDICT_CoV-62/AATKH
+MG963188|Bat/13GB0273

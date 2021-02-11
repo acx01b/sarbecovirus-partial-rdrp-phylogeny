@@ -2351,7 +2351,7 @@ location	Wuhan	30.554807	114.271501
 location	Xai Xai	-25.044479	33.64073
 location	Xeraco	39.0331	-0.2163
 location	Xinyu	27.8178	114.9173
-location	Xishuangbanna	21.995	100.837
+location	Xishuangbanna	21.9189	101.27
 location	Yakima County	46.430431	-120.711765
 location	Yamhill County	45.2298399	-123.2180414
 location	Yangjiang	21.888814	111.972598
@@ -2801,7 +2801,7 @@ division	Hawkes Bay	-39.4343279	176.7652742
 division	Hebei	39.18	116.42
 division	Shanxi	37.52	112.33
 division	Shaanxi	34.16	108.54
-division	Steung Treng	13.60	105.85
+division	Steung Treng	13.645	105.964
 division	Jilin	43.42	126.12
 division	Hebron	31.528902	35.0944873
 division	Heilongjiang	47.286490	127.992676
@@ -3775,17 +3775,10 @@ location	Chuxiong	24.8967148	101.0683844
 location	Conghua	23.6506340	113.5306679
 location	Daishan	30.3647674	121.9839189
 location	Dinghai	30.0885897	121.9121131
-location	GD Unknown	22.8535830	111.2430608
-location	GX Unknown	23.6309056	106.0123001
-location	GZ Unknown	26.9069186	104.3560269
-location	HB Unknown	31.1378126	110.0076817
-location	HN Unknown	27.3682867	109.2825006
 location	Huidong	22.9441618	114.7123337
 location	Huizhou	23.0886956	114.2835531
 location	Jinning	24.4798798	102.2908838
 location	Jiyuan	35.0865384	112.2611172
-location	JL Unknown	43.5670404	124.2402120
-location	Laos Border	21.9317408	101.6583025
 location	Lingbao	34.4289622	110.4959784
 location	Lingqiu	39.3520183	113.9532139
 location	Longquan	28.0194209	118.7943148
@@ -3797,14 +3790,25 @@ location	Nanling	24.9133358	113.0804623
 location	Nanning	22.8221193	108.1459722
 location	Qinshiu	35.7256365	112.0835470
 location	Sanxizhen	30.3744858	118.4246962
-location	SC Unknown	30.1650980	100.7039602
 location	Shenzhen	22.5554167	113.9137945
-location	SN Unknown	35.6297052	106.1268159
 location	Tengchong	25.2407214	97.8712239
 location	Tongguan	23.1747071	101.3506482
 location	Tonghua	41.7297019	125.9026319
 location	Xiangzhou	22.1253923	113.5893497
 location	Yangcheng	35.4485916	112.1912961
 location	Yichang	30.7046149	111.2269572
-location	YN Unknown	25.1706089	99.6192140
 location	Yuxian	38.2351645	113.0968556
+location	Zhoushan	30.04035956280654	122.14839693045553
+location	Steung Treng	13.645	105.964
+location	ShiShi	24.726553928771885	118.68817790481012
+location	Hunan	27.6662087	111.7487063
+location	Shaanxi	34.16	108.54
+location	Chachoengsao	13.41	101.88
+location	Jilin	43.42	126.12
+location	Hubei	31.095477	112.676644
+location	Sichuan	30.709229	102.693949
+location	Guizhou	26.50	106.50
+location	Guangdong	23.615762	114.483257
+location	Guangxi	23.717754	108.701872
+location	Changle	25.96750039064318	119.54173784125265
+location	Yunnan	24.556297	101.36621
