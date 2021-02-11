@@ -292,6 +292,167 @@
           }
         },
         "key": "division"
+      },
+      {
+        "demes": {
+          "Anlong": {
+            "latitude": 25.1477572,
+            "longitude": 105.1880387
+          },
+          "Baoan": {
+            "latitude": 22.6943378,
+            "longitude": 113.7402443
+          },
+          "Chuxiong": {
+            "latitude": 24.8967148,
+            "longitude": 101.0683844
+          },
+          "Conghua": {
+            "latitude": 23.650634,
+            "longitude": 113.5306679
+          },
+          "Daishan": {
+            "latitude": 30.3647674,
+            "longitude": 121.9839189
+          },
+          "Dinghai": {
+            "latitude": 30.0885897,
+            "longitude": 121.9121131
+          },
+          "GD Unknown": {
+            "latitude": 22.853583,
+            "longitude": 111.2430608
+          },
+          "GX Unknown": {
+            "latitude": 23.6309056,
+            "longitude": 106.0123001
+          },
+          "GZ Unknown": {
+            "latitude": 26.9069186,
+            "longitude": 104.3560269
+          },
+          "Guangzhou": {
+            "latitude": 23.123972,
+            "longitude": 113.292889
+          },
+          "HB Unknown": {
+            "latitude": 31.1378126,
+            "longitude": 110.0076817
+          },
+          "HN Unknown": {
+            "latitude": 27.3682867,
+            "longitude": 109.2825006
+          },
+          "Huidong": {
+            "latitude": 22.9441618,
+            "longitude": 114.7123337
+          },
+          "Huizhou": {
+            "latitude": 23.0886956,
+            "longitude": 114.2835531
+          },
+          "JL Unknown": {
+            "latitude": 43.5670404,
+            "longitude": 124.240212
+          },
+          "Jinning": {
+            "latitude": 24.4798798,
+            "longitude": 102.2908838
+          },
+          "Jiyuan": {
+            "latitude": 35.0865384,
+            "longitude": 112.2611172
+          },
+          "Lingbao": {
+            "latitude": 34.4289622,
+            "longitude": 110.4959784
+          },
+          "Lingqiu": {
+            "latitude": 39.3520183,
+            "longitude": 113.9532139
+          },
+          "Longquan": {
+            "latitude": 28.0194209,
+            "longitude": 118.7943148
+          },
+          "Longyang": {
+            "latitude": 25.2063715,
+            "longitude": 98.8339108
+          },
+          "Lufeng": {
+            "latitude": 25.1763737,
+            "longitude": 101.7452812
+          },
+          "Mangshi": {
+            "latitude": 24.3706137,
+            "longitude": 98.0936272
+          },
+          "Menglian": {
+            "latitude": 22.312406,
+            "longitude": 99.3198381
+          },
+          "Nanling": {
+            "latitude": 24.9133358,
+            "longitude": 113.0804623
+          },
+          "Nanning": {
+            "latitude": 22.8221193,
+            "longitude": 108.1459722
+          },
+          "Qinshiu": {
+            "latitude": 35.7256365,
+            "longitude": 112.083547
+          },
+          "SC Unknown": {
+            "latitude": 30.165098,
+            "longitude": 100.7039602
+          },
+          "SN Unknown": {
+            "latitude": 35.6297052,
+            "longitude": 106.1268159
+          },
+          "Sanxizhen": {
+            "latitude": 30.3744858,
+            "longitude": 118.4246962
+          },
+          "Shenzhen": {
+            "latitude": 22.5554167,
+            "longitude": 113.9137945
+          },
+          "Tengchong": {
+            "latitude": 25.2407214,
+            "longitude": 97.8712239
+          },
+          "Tongguan": {
+            "latitude": 23.1747071,
+            "longitude": 101.3506482
+          },
+          "Tonghua": {
+            "latitude": 41.7297019,
+            "longitude": 125.9026319
+          },
+          "Xiangzhou": {
+            "latitude": 22.1253923,
+            "longitude": 113.5893497
+          },
+          "YN Unknown": {
+            "latitude": 25.1706089,
+            "longitude": 99.619214
+          },
+          "Yangcheng": {
+            "latitude": 35.4485916,
+            "longitude": 112.1912961
+          },
+          "Yichang": {
+            "latitude": 30.7046149,
+            "longitude": 111.2269572
+          },
+          "Yuxian": {
+            "latitude": 38.2351645,
+            "longitude": 113.0968556
+          }
+        },
+        "key": "location"
       }
     ],
     "maintainers": [
@@ -310,7 +471,7 @@
       "entropy"
     ],
     "title": "Sarbecovirus partial RdRp : 15218-15544 in SARS/GD01 ",
-    "updated": "2021-02-09"
+    "updated": "2021-02-11"
   },
   "tree": {
     "branch_attrs": {
