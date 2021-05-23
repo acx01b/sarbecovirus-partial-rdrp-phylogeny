@@ -54,7 +54,7 @@ MN312602	MN312602|Bat|SARS-like|coronavirus|6530	China	Yunnan	Rh. affinis	2014-X
 KP886809	KP886809|Bat|SARS-like|coronavirus|YNLF_34C	China	Yunnan	Rh. ferrumequinum	2013-XX-XX	Lufeng	Betacoronavirus	Lau et al. (2015)	HKU	SARSr					34C		YN	LF				Central	2013-05-23	2013-05-01		
 KP886808	KP886808|Bat|SARS-like|coronavirus|YNLF_31C	China	Yunnan	Rh. ferrumequinum	2013-XX-XX	Lufeng	Betacoronavirus	Lau et al. (2015)	HKU	SARSr					31C		YN	LF				Central	2013-05-23	2013-05-01		
 KU973688	KU973688|Severe|acute|respiratory|syndrome-related|coronavirus|F23	China	Yunnan	Rh. pusillus	2012-XX-XX	Tengchong	Betacoronavirus	Wang et al. (2017)	CDC	SARSr					1900-01-22		YN	-0				Western				
-AY278489	AY278489|SARS|GD01	China	Guangdong	Human	2003-04-16																					
+AY278489	AY278489|SARS|GD01	China	Guangdong	Human	2003-04-16	Guangzhou																				
 AY572034	AY572034|SARS|coronavirus|civet007	China	Guangdong	Civet	2004-01-XX	Guangzhou																				
 AY545919	AY545919|SARS|coronavirus|CFB/SZ/94/03	China		Chinese Ferret Badger 	?																					
 MN312595	MN312595|Bat|SARS-like|coronavirus|isolate|6233	China	Yunnan	Rh. sinicus	2014-XX-XX	Chuxiong	Betacoronavirus	Latinne et al. (2020)	WIV+EcoH+DNUS+GIABR	SARSr	1917-01-23						YN	CX		possible		Central		2014-05-01		
@@ -131,7 +131,7 @@ KY432456	KY432456|Bat|coronavirus|isolate|16BO129	South Korea	South Korea	Rh. fe
 KY432465	KY432465|Bat|coronavirus|isolate|16BO154	South Korea	South Korea	Rh. ferrumequinum	2016-04-XX																					
 KY432466	KY432466|Bat|coronavirus|isolate|16BO154	South Korea	South Korea	Rh. ferrumequinum	2016-04-XX																					
 KJ473811	KJ473811|BtRf-BetaCoV/JL2012|BtRf-JL2012	China	Jilin	Rh. ferrumequinum	2012-XX-XX	Jilin	Betacoronavirus	Wu et al. (2016)	MOH	SARSr							JL	?				Far from Yunnan		2012-10-01		
-KU182964	KU182964|Bat|coronavirus|JTMC15	China	Jilin	Rh. ferrumequinum	2013-XX-XX	Tonghua	Betacoronavirus	Xu et al. (2016)	PLA	SARSr					JTMC15		JL	JTMC				Far from Yunnan		2013-08-01		
+KU182964	KU182964|Bat|coronavirus|JTMC15	China	Jilin	Rh. ferrumequinum	2013-08-XX	Tonghua	Betacoronavirus	Xu et al. (2016)	PLA	SARSr					JTMC15		JL	JTMC				Far from Yunnan		2013-08-01		
 MK991934	MK991934|Bat|coronavirus|isolate|B18-82	South Korea	South Korea	Rh. ferrumequinum	2018-05-23																					
 MK991933	MK991933|Bat|coronavirus|isolate|B18-74	South Korea	South Korea	Rh. ferrumequinum	2018-05-23																					
 KY938558	KY938558|Bat|coronavirus|16BO133	South Korea	South Korea	Rh. ferrumequinum	2016-XX-XX		Betacoronavirus			SARSr													2016-04-17	2016-04-01		
@@ -284,7 +284,7 @@ MN312636	MN312636|Bat|betacoronavirus|isolate|7924	China	Yunnan	Rh. affinis	2015
 MN312635	MN312635|Bat|betacoronavirus|isolate|7921	China	Yunnan	Rh. affinis	2015-XX-XX	Tongguan	Betacoronavirus	Latinne et al. (2020)	WIV+EcoH+DNUS+GIABR	SARSr	1921-09-07						YN	TG		possible		Southern		2015-05-01		
 MN312632	MN312632|Bat|betacoronavirus|isolate|7905	China	Yunnan	Rh. affinis	2015-XX-XX	Tongguan	Betacoronavirus	Latinne et al. (2020)	WIV+EcoH+DNUS+GIABR	SARSr	1921-08-22						YN	TG		possible		Southern		2015-05-01		
 MN996532	MN996532|Bat|coronavirus|RaTG13	China	Yunnan	Rh. affinis	2013-07-24	Tongguan	Betacoronavirus	Ge et al. (2016)	WIV	SARSr	1913-08-30						YN	TG				Southern	2013-07-24	2013-07-01		
-EPI_ISL_412977	EPI_ISL_412977|RmYN02	China	Yunnan	Rh. malayanus	2019-XX-XX	Xishuangbanna		Zhou et al.																		
+EPI_ISL_412977	EPI_ISL_412977|RmYN02	China	Yunnan	Rh. malayanus	2019-XX-XX	Menglun		Zhou et al. (2020)	Bgarden																	
 EPI_ISL_420039	EPI_ISL_420039|SARS-CoV-2|France/GE2720/2020	France	Grand Est	Human	2020-03-12																					
 EPI_ISL_456190	EPI_ISL_456190|SARS-CoV-2|NewZealand/20VR1109/2020	New Zealand	New Zealand	Human	2020-03-04																					
 MN908947	MN908947|SARS-CoV-2|Wuhan-Hu-1	China	Hubei	Human	2019-12-30	Wuhan																				
@@ -328,7 +328,7 @@ KC633220	KC633220|Betacoronavirus|BtCoV/Rhi_hip/Slo52/SLO/2009	Slovenia	Slovenia
 KF500952	KF500952|Betacoronavirus|Rhinolophus|hipposideros/Italy/187632-2/2012	Italy	Italy	Rh. hipposideros 	2012-XX-XX				ITA																	
 KF500953	KF500953|Betacoronavirus|Rhinolophus|hipposideros/Italy/196814/2011	Italy	Italy	Rh. hipposideros 	2011-XX-XX				ITA																	
 KF500954	KF500954|Betacoronavirus|Rhinolophus|hipposideros/Italy/243585/2012	Italy	Italy	Rh. hipposideros 	2012-XX-XX				ITA																	
-KT381914	KT381914|Rhinolophus|monoceros|coronavirus|isolate|CYCU-R9/TW/2013	Taiwan	Taiwan	Rh. monoceros	2013-XX-XX																					
+KT381914	KT381914|Rhinolophus|monoceros|coronavirus|isolate|CYCU-R9/TW/2013	Taiwan	Taiwan	Rh. monoceros	2013-11-23																					
 KY432455	KY432455|Bat|coronavirus|isolate|16BO122	South Korea	South Korea	Rh. ferrumequinum	2016-04-XX																					
 KY432457	KY432457|Bat|coronavirus|isolate|16BO132	South Korea	South Korea	Rh. ferrumequinum	2016-04-XX																					
 KY775084	KY775084|Rhinolophus|pusillus|coronavirus|isolate|ZSR4	China	Zhejiang	Rh. pusillus	2015-XX-XX	Zhoushan		PMC5589946																		
@@ -350,3 +350,19 @@ KX285253	KX285253|PREDICT_CoV-62/AATKH	Tanzania	Tanzania	bat	2013-08-01
 MG963188	MG963188|Bat/13GB0273	Gabon	Gabon	Hipposideros gigas	2013																					
 MN312625	MN312625|Bat/7570	Laos	Laos	Hipposideros pomona	?			Latinne et al. (2020)	WIV+EcoH+DNUS+GIABR																	
 MN312608	MN312608|Bat/7519	Laos	Laos	Hipposideros pomona	?			Latinne et al. (2020)	WIV+EcoH+DNUS+GIABR																	
+EPI_ISL_1098866	EPI_ISL_1098866|bat/Yunnan/PrC31/2018	China	Yunnan	Rhinolophus	2018-08-XX	Puer			CDC																	
+EPI_ISL_1699449	EPI_ISL_1699449|RsYN09/2020	China	Yunnan	Rh. sinicus	2020-07-28	Menglun		Zhou et al. (2021)	Bgarden																	
+EPI_ISL_1699448	EPI_ISL_1699448|RmYN08/2020	China	Yunnan	Rh. malayanus	2020-07-14	Menglun		Zhou et al. (2021)	Bgarden																	
+EPI_ISL_1699447	EPI_ISL_1699447|RmYN07/2020	China	Yunnan	Rh. malayanus	2020-06-03	Menglun		Zhou et al. (2021)	Bgarden																	
+EPI_ISL_1699446	EPI_ISL_1699446|RsYN06/2020	China	Yunnan	Rh. sinicus	2020-05-25	Menglun		Zhou et al. (2021)	Bgarden																	
+EPI_ISL_1699445	EPI_ISL_1699445|RmYN05/2020	China	Yunnan	Rh. malayanus	2020-05-25	Menglun		Zhou et al. (2021)	Bgarden																	
+EPI_ISL_1699444	EPI_ISL_1699444|RsYN04/2020	China	Yunnan	Rh. sinicus	2020-04-18	Menglun		Zhou et al. (2021)	Bgarden																	
+EPI_ISL_1699443	EPI_ISL_1699443|RsYN03/2019	China	Yunnan	Rh. sinicus	2019-10-22	Menglun		Zhou et al. (2021)	Bgarden																	
+MT726045	MT726045|Rwanda|PREDICT/PRD-0038/AABSMF|2011	Rwanda	Rwanda	Rhinlophus	2011-09-27				PREDICT																	
+MT726044	MT726044|Uganda|PREDICT/PDF-2370/OTBA35RSV|2013	Uganda	Uganda	Rhinlophus	2013-05-30				PREDICT																	
+MT726043	MT726043|Uganda|PREDICT/PDF-2386/OTBA40RSV|2013	Uganda	Uganda	Rhinlophus	2013-05-30				PREDICT																	
+MW880984	MW880984|bat/LBN/LB20-CO-BAT-14A/2020	Lebanon	Lebanon	Rh. ferrumequinum	2020-06-27	Lebanon		Said et al.	LBN																	
+MW880993	MW880993|LBN/LB20-CO-BAT-22A/2020	Lebanon	Lebanon	Rh. ferrumequinum	2020-06-27	Lebanon		Said et al.	LBN																	
+MW881006	MW881006|LBN/LB20-CO-BAT-19A/2020	Lebanon	Lebanon	Rh. ferrumequinum	2020-06-27	Lebanon		Said et al.	LBN																	
+MW881011	MW881011|LBN/LB20-CO-BAT-20A/2020	Lebanon	Lebanon	Rh. ferrumequinum	2020-06-27	Lebanon		Said et al.	LBN																	
+MW880999	MW880999|LBN/LB20-CO-BAT-26A/2020	Lebanon	Lebanon	Rh. ferrumequinum	2020-06-27	Lebanon		Said et al.	LBN																	
